@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.navTop{
+width: 1349px;
+height: 80px;
+align-items: center;
+color: #211922;
+display: flex;
+font-size: 12px;
+padding: 4px 16px;
+border: solid black 1px;
+}
+.buttonsTopDiv{
+    width: 1317px;
+    height: 56px;
+    align-items: center;
+    color: #211922;
+    display: flex;
+    font-size: 12px;
+}
+.home{
+    width: 77px;
+    height: 48px;
+    background-color: #111111;
+    border-radius: 24px;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 0 16px;
+    font-weight: 900;
+    
+}
